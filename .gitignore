@@ -1,0 +1,5 @@
+
+src/Prester.Solution/.idea/
+
+**/bin/**/*
+**/obj/**/*
